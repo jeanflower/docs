@@ -1,0 +1,15 @@
+{
+	"parameters": {
+		"header": [
+			{
+				"x-client-id": "c438b55f-816d-4ce2-b26f-ac0821aa1d2b"
+			},
+			{
+				"x-client-secret": "7f7617ea-bcd7-4ee8-9cc0-1433e310fdbd"
+			},
+			{
+				"x-product-instance-id": "1d2a3127-53f3-4ce7-bb53-663886d330cf"
+			}
+		]
+	}
+}
